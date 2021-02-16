@@ -2,7 +2,7 @@
     <header class="usa-header usa-header--extended">
       <div class="usa-navbar">
         <div class="usa-logo" id="extended-logo">
-          <em class="usa-logo__text"><a href="<?php echo $path;?>/" title="Home" aria-label="Home">Historic Lighthouses</a></em>
+          <em class="usa-logo__text"><a href="<?php echo $path;?>" title="Home" aria-label="Home">Historic Lighthouses</a></em>
         </div>
         <button class="usa-menu-btn">Menu</button>
       </div>

@@ -3,7 +3,7 @@
     <div class="usa-nav-container">
       <div class="usa-navbar">
         <div class="usa-logo" id="basic-mega-logo">
-          <em class="usa-logo__text"><a href="<?php echo $path;?>/" title="Home" aria-label="Home">Historic Lighthouses</a></em>
+          <em class="usa-logo__text"><a href="<?php echo $path;?>" title="Home" aria-label="Home">Historic Lighthouses</a></em>
         </div>
         <button class="usa-menu-btn">Menu</button>
       </div>
