@@ -1,0 +1,5 @@
+# Thank you for visiting another Ghaffari-Tabrizi family designed website
+# For more information on this file, please visit http://www.robotstxt.org/
+
+User-agent: *
+Disallow: 
